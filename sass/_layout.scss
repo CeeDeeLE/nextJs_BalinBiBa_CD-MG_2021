@@ -1,0 +1,126 @@
+@import 'components';
+@import 'variables';
+@import 'typographie';
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  // 1. Variante:
+  // background: radial-gradient(var(--bg-black) 15%, transparent 16%) 0 0,
+  //   radial-gradient(var(--bg-black) 15%, transparent 16%) 8px 8px,
+  //   radial-gradient(var(--bg-black-fog) 15%, transparent 20%) 0 1px,
+  //   radial-gradient(var(--bg-black-fog) 15%, transparent 20%) 8px 9px;
+  // background-color: var(--bg-color);
+  // background-size: 16px 16px;
+  // 2. Variante:
+  // background-image: url('https://picsum.photos/id/124/3504/2336');
+  background-image: url('/img/bg_130_2000x4038_sw.jpg');
+  // background-image: url('/img/logo_vorlage.jpg');
+  // opacity: 0.8;
+  background-repeat: repeat repeat;
+  // background-size: 100%;
+  // 3. Variante:
+  // background-color: var(--light-bg-color);
+
+  color: var(--text-color);
+  font-family: 'Calibri', 'Verdana', sans-serif;
+  font-size: 1.1rem;
+
+  // aus Bootstrap-Navi
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+h1 {
+  // font-family: 'H1-Test-Schrift', sans-serif;
+  font-family: 'Philosopher', sans-serif;
+  -webkit-text-stroke: 0.15rem var(--bg-black);
+  letter-spacing: 0.3rem;
+  text-align: center;
+  color: var(--bg-black);
+}
+
+header,
+main,
+footer {
+  max-width: 90rem;
+  margin: auto;
+  padding: 0.5rem;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+button {
+  font-family: 'Caviar', sans-serif;
+}
+
+a {
+  cursor: pointer;
+  color: var(--link-color);
+  &:hover,
+  &:focus {
+    color: var(--hover-color);
+  }
+}
+
+input {
+  background: var(--light-bg-color);
+  color: var(--bg-black);
+  font-family: 'Caviar', 'sans-serif';
+  font-weight: 900;
+  border-radius: 0.5em;
+  padding-left: 0.5rem;
+  &:focus,
+  &:hover,
+  &:link,
+  &:visited,
+  &:active {
+    background: var(--light-bg-color);
+    color: var(--bg-black);
+  }
+  &::placeholder {
+    color: var(--bg-black-fog);
+  }
+}
+
+.site-wrapper {
+  /* "Sticky Footer": Sorgt dafür, dass der Footer am unteren Bildschirmrand ist,
+     wenn es nicht genügend Inhalt gibt, um ihn nach unten zu drücken.
+     .page ist ein div um die gesamte Seite herum. 
+  */
+  display: flex;
+  /* column ordnet die Inhalte der Seite normal von oben nach unten an
+  */
+  flex-direction: column;
+
+  flex: 1 0 auto;
+
+  /* Mindesthöhe des gesamten Inhalts: 100% der "viewport height", d.h.
+     des Bildschirms. 
+  */
+  min-height: calc(100vh - 1rem);
+}
+
+.inner-width {
+  width: 90%;
+  max-width: 90rem;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.site-main,
+.header-main,
+.intro,
+.bad-item,
+.shuffler,
+.impressum,
+.dasch {
+  padding: 0 1rem 1rem 1rem;
+}

@@ -1,0 +1,37 @@
+.bad-list {
+  margin: 2rem 0;
+  &__title {
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.bad-grid {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+}
+
+.bad-item {
+  &__title {
+    a {
+      text-decoration: none;
+    }
+  }
+
+  &__image {
+    width: 100%;
+  }
+
+  // &:not(:last-child) {
+  padding-bottom: 1.5rem;
+  border-bottom: 0.1rem dashed var(--hover-color);
+  // }
+}
+
+.leaflet {
+  button {
+    margin: 0.5rem 0;
+  }
+}

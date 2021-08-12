@@ -1,0 +1,62 @@
+.tr {
+  display: flex;
+}
+
+// Variante grid:
+dl {
+  display: grid;
+  grid-template-columns: 1fr 60%;
+  font-size: 1.2rem;
+}
+dd {
+  margin: 0;
+}
+dl dd {
+  margin-bottom: 0.1em;
+}
+
+a[href^='tel'] {
+  white-space: nowrap;
+}
+
+// Variante Fieldset
+.fieldset {
+  border-radius: 0.5rem;
+  border: 1px solid var(--text-color);
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+
+  button {
+    height: 1.1rem;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    &:disabled,
+    .disabled {
+      display: none;
+    }
+  }
+}
+
+/* ============ tablet etc ============ */
+@media (max-width: 1350px) {
+  .fieldset {
+    .plzgesucht,
+    .gefunden {
+      label {
+        float: left;
+      }
+      input {
+        float: left;
+      }
+    }
+  }
+}
+
+/* ============ small devices ============ */
+@media (max-width: 991px) {
+  .fieldset {
+    flex-direction: column;
+  }
+}

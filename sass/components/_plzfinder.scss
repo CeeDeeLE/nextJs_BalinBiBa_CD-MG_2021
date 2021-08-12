@@ -1,0 +1,81 @@
+.plz-map {
+  padding: 0;
+  margin: 0;
+}
+
+.plzsearch {
+  display: flex;
+  font-size: 1.2rem;
+  padding: 0;
+  margin-bottom: 1rem;
+}
+
+.plzgesucht,
+.gefunden {
+  padding: 0;
+  margin: 0;
+
+  label {
+    width: 16rem;
+    float: right;
+  }
+
+  input {
+    width: 16rem;
+    margin-right: 1rem;
+  }
+}
+
+#plz-svg {
+  margin: 1rem auto;
+}
+
+#plzresult {
+  display: grid;
+  grid-gap: 1rem;
+  grid-auto-columns: 15rem;
+  grid-template-columns: auto auto auto auto;
+  margin-bottom: 1rem;
+}
+
+.plzMap {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(autofill, minimax(1fr, 15%));
+}
+
+svg {
+  path:hover,
+  path:focus,
+  path:focus-visible,
+  path:visited,
+  path:active,
+  path:link,
+  path:focus-within {
+    cursor: pointer;
+    fill: hsl(51, 100%, 50%);
+  }
+}
+
+/* ============ tablet etc ============ */
+@media (max-width: 1291px) {
+  .plzgeg,
+  .plzgesucht,
+  .gefunden {
+    label {
+      float: left;
+    }
+    input {
+      float: left;
+    }
+  }
+}
+
+/* ============ small devices ============ */
+@media (max-width: 991px) {
+  .plzsearch {
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+  }
+}

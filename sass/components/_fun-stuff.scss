@@ -1,0 +1,55 @@
+.shuffler {
+  width: 100%;
+
+  input {
+    width: 100%;
+    margin-bottom: 1rem;
+    &:focus {
+      font-weight: bold;
+    }
+  }
+}
+
+.shuffled-text,
+.shuffled-text-color {
+  max-width: 100%;
+  display: block;
+  word-break: break-all;
+  letter-spacing: 0.1rem;
+  margin-bottom: 1rem;
+
+  span {
+    display: inline-block;
+    animation-name: 'slide-in';
+    animation-duration: 0.75s;
+    animation-delay: var(--delay);
+    animation-fill-mode: backwards;
+    animation-timing-function: cubic-bezier(0.6, -0.28, 0.77, 1.61);
+    position: relative;
+    --startPosition: -10em;
+    &:nth-of-type(odd) {
+      --startPosition: 10em;
+    }
+  }
+}
+
+.shuffled-text {
+  font-family: 'Eraser', sans-serif;
+  font-size: 2rem;
+}
+.shuffled-text-color {
+  font-family: 'Gilbert', sans-serif;
+  font-size: 3rem;
+}
+
+@keyframes slide-in {
+  0% {
+    opacity: 0;
+    transform: translateY(var(--startPosition)) rotate(1turn);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) rotate(0);
+  }
+}

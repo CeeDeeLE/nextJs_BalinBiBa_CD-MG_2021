@@ -1,0 +1,114 @@
+.site-navigation,
+.topnav {
+  width: 100%;
+  min-height: 2rem;
+  position: relative;
+  overflow: hidden;
+  display: block;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--link-color);
+  text-align: center;
+
+  ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+  }
+
+  li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+  }
+
+  a,
+  .icon {
+    font-size: 1.2rem;
+    font-weight: 900;
+    color: var(--bg-black);
+    -webkit-text-stroke: 0.01rem var(--bg-black);
+    letter-spacing: 0.02rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    &:not(:last-of-type) {
+      justify-content: space-between;
+    }
+    &:hover,
+    &:focus,
+    &:active {
+      background-color: var(--hover-color);
+      color: var(--bg-black);
+    }
+  }
+}
+
+.topnav .icon {
+  display: none;
+}
+
+
+/* ============ small devices ============ */
+@media (max-width: 991px) {
+  #myTopnav {
+    position: relative;
+    width: 100%;
+  }
+
+  .topnav {
+    background: var(--link-color);
+    position: relative;
+    left: 0;
+    z-index: 3;
+  }
+
+  .topnav a:not(:first-child) {
+    display: none;
+  }
+
+  .topnav .icon {
+    display: block;
+    background-color: var(--hover-color);
+    float: right;
+  }
+
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    border-bottom: 0.1rem dashed var(--hover-color);
+    text-align: left;
+    position: relative;
+    top: 0;
+  }
+
+  .active {
+    position: relative;
+    float: left;
+    top: 0;
+  }
+
+  .topnav a.active {
+    position: relative;
+    top: 0px;
+    background: var(--link-color);
+  }
+
+  .topnav a:hover {
+    background-color: var(--hover-color);
+  }
+}
+
+/* ============ small devices .end// ============ */

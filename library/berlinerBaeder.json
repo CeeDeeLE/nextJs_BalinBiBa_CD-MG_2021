@@ -1,0 +1,1136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.14228, 52.43271]
+      },
+      "properties": {
+        "title": "Alter Hof / Unterhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/1",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Steglitz-Zehlendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/1\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/1",
+        "data": {
+          "id": "1",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Alter Hof(Link zur Badestelle Alter Hof)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344360.php",
+          "badname": "Alter Hof",
+          "bezirk": "Steglitz-Zehlendorf",
+          "dat": "2021-07-20",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "140",
+          "temp": "24",
+          "profillink": "\"Unterhavel - Alter Hof(Link zum Badegewässerprofil Unterhavel Alter Hof)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339134.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad29.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.62254, 52.4075]
+      },
+      "properties": {
+        "title": "Bammelecke",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/4",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/4\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/4",
+        "data": {
+          "id": "4",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Bammelecke(Link zur Badestelle Bammelecke)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344320.php",
+          "badname": "Bammelecke",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "15",
+          "sicht": "180",
+          "temp": "25,6",
+          "profillink": "\"Dahme - Bammelecke(Link zum Badegewässerprofil Bammelecke)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339118.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad1.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1798, 52.46575]
+      },
+      "properties": {
+        "title": "Breitehorn / Unterhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/7",
+        "description": "<img src=\"/imgscaler/yOuVLK2KYlCxkzMJzhtt-Fue_QytByvOgcH-IOX9dLw/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW5fcHJvZy5qcGc.jpg\" alt=\"\" />Spandau<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/7\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/7",
+        "data": {
+          "id": "7",
+          "prognoselink": "",
+          "farbe": "gruen_prog.jpg",
+          "badestellelink": "\"Breitehorn(Link zur Badestelle Breitehorn)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344350.php",
+          "badname": "Breitehorn",
+          "bezirk": "Spandau",
+          "dat": "2021-07-29",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": ">100",
+          "temp": "24,6",
+          "profillink": "\"Unterhavel - Breitehorn(Link zum Badegewässerprofil Unterhavel Breithorn)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339130.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad30.pdf",
+          "dat_predict": "2021-08-04T05:51:03.790Z"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.21124, 52.58499]
+      },
+      "properties": {
+        "title": "Bürgerablage / Oberhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/10",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Spandau<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/10\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/10",
+        "data": {
+          "id": "10",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Bürgerablage(Link zur Badestelle Bürgerablage)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344337.php",
+          "badname": "Bürgerablage",
+          "bezirk": "Spandau",
+          "dat": "2021-07-19",
+          "eco": "15",
+          "ente": "15",
+          "sicht": "150",
+          "temp": "24,4",
+          "profillink": "\"Oberhavel - Bürgerablage(Link zum Badegewässerprofil Bürgerablage)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339123.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad16.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.73511, 52.42692]
+      },
+      "properties": {
+        "title": "Dämeritzsee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/13",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/13\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/13",
+        "data": {
+          "id": "13",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Dämeritzsee(Link zur Badestelle Dämeritzsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344321.php",
+          "badname": "Dämeritzsee",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "130",
+          "temp": "25,2",
+          "profillink": "\"Großer Müggelsee - Dämeritzsee(Link zum Badegewässerprofil Dämeritzsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339107.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad2.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.28489, 52.56979]
+      },
+      "properties": {
+        "title": "Flughafensee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/16",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/16\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/16",
+        "data": {
+          "id": "16",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Flughafensee(Link zur Badestelle Flughafensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344334.php",
+          "badname": "Flughafensee",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-28",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": ">100",
+          "temp": "24,8",
+          "profillink": "\"Flughafensee - Flughafensee(Link zum Badegewässerprofil Flughafensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339146.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad3.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.63069, 52.44584]
+      },
+      "properties": {
+        "title": "Seebad Friedrichshagen",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/19",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/19\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/19",
+        "data": {
+          "id": "19",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Seebad Friedrichshagen(Link zur Badestelle Seebad Friedrichshagen)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344322.php",
+          "badname": "Friedrichshagen, Seebad",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "61",
+          "ente": "<15",
+          "sicht": "160",
+          "temp": "24,4",
+          "profillink": "\"Seebad Friedrichshagen(Link zum Badegewässerprofil Seebad Friedrichshagen)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339113.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad4.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.57573, 52.44094]
+      },
+      "properties": {
+        "title": "Flussbad Gartenstraße",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/22",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/22\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/22",
+        "data": {
+          "id": "22",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Flußbad Gartenstraße(Link zur Badestelle Flußbad Gartenstraße)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344323.php",
+          "badname": "Gartenstraße, Flussbad",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "130",
+          "temp": "25,6",
+          "profillink": "\"Dahme - Flussbad Gartenstraße(Link zum Badegewässerprofil Flußbad Gartenstraße)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339121.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad5.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.11857, 52.47176]
+      },
+      "properties": {
+        "title": "Groß Glienicker See, nördlich",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/25",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Spandau<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/25\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/25",
+        "data": {
+          "id": "25",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Groß Glienicker See, nördlich(Link zur Badestelle Glienicker See nördlich)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344340.php",
+          "badname": "Groß Glienicker See, nördlich",
+          "bezirk": "Spandau",
+          "dat": "2021-07-29",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": ">100",
+          "temp": "24",
+          "profillink": "\"Groß Glienicker See - Groß Glienicker See, nördlich(Link zum Groß Glienicker See nördlich)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339153.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad6.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.11463, 52.46036]
+      },
+      "properties": {
+        "title": "Groß Glienicker See, südlich",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/28",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Spandau<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/28\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/28",
+        "data": {
+          "id": "28",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Groß Glienicker See, südlich(Link zur Badestelle Glienicker See südlich)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344338.php",
+          "badname": "Groß Glienicker See, südlich",
+          "bezirk": "Spandau",
+          "dat": "2021-07-29",
+          "eco": "126",
+          "ente": "77",
+          "sicht": ">100",
+          "temp": "24",
+          "profillink": "\"Groß Glienicker See - Groß Glienicker See, südlich(Link zum Groß Glienicker See südlich)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339154.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad7.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.65238, 52.38949]
+      },
+      "properties": {
+        "title": "Große Krampe",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/31",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/31\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/31",
+        "data": {
+          "id": "31",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Große Krampe(Link zur Badestelle Große Krampe)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344326.php",
+          "badname": "Große Krampe",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "130",
+          "temp": "25,3",
+          "profillink": "\"Dahme - Große Krampe(Link zum Badegewässerprofil Große Krampe)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339117.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad8.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19022, 52.45077]
+      },
+      "properties": {
+        "title": "Große Steinlanke / Unterhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/34",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Steglitz-Zehlendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/34\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/34",
+        "data": {
+          "id": "34",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Große Steinlanke(Link zur Badestelle Große Steinlanke)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344362.php",
+          "badname": "Große Steinlanke",
+          "bezirk": "Steglitz-Zehlendorf",
+          "dat": "2021-07-20",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "160",
+          "temp": "23,7",
+          "profillink": "\"Unterhavel - Große Steinlanke(Link zum Badegewässerprofil Unterhavel Steinlanke)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339133.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad31.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.60722, 52.40898]
+      },
+      "properties": {
+        "title": "Freibad Grünau",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/37",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/37\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/37",
+        "data": {
+          "id": "37",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Freibad Grünau(Link zur Badestelle Grünau)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344325.php",
+          "badname": "Grünau, Freibad",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "15",
+          "sicht": "160",
+          "temp": "25,5",
+          "profillink": "\"Dahme - Freibad Grünau(Link zum Badegewässerprofil Freibad Grünau)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339119.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad9.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1947, 52.4822]
+      },
+      "properties": {
+        "title": "Grunewaldturm / Unterhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/40",
+        "description": "<img src=\"/imgscaler/yOuVLK2KYlCxkzMJzhtt-Fue_QytByvOgcH-IOX9dLw/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW5fcHJvZy5qcGc.jpg\" alt=\"\" />Charlottenburg-Wilmersdorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/40\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/40",
+        "data": {
+          "id": "40",
+          "prognoselink": "",
+          "farbe": "gruen_prog.jpg",
+          "badestellelink": "\"Grunewaldturm(Link zur Badestelle Grunewaldturm)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344359.php",
+          "badname": "Grunewaldturm",
+          "bezirk": "Charlottenburg-Wilmersdorf",
+          "dat": "2021-07-29",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "130",
+          "temp": "23,7",
+          "profillink": "\"Unterhavel - Grunewaldturm(Link zum Badegewässerprofil Unterhavel Grunewaldturm)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339131.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad32.pdf",
+          "dat_predict": "2021-08-04T05:51:29.929Z"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.28184, 52.49453]
+      },
+      "properties": {
+        "title": "Halensee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/43",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Charlottenburg-Wilmersdorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/43\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/43",
+        "data": {
+          "id": "43",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Halensee(Link zur Badestelle Halensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.468922.php",
+          "badname": "Halensee",
+          "bezirk": "Charlottenburg-Wilmersdorf",
+          "dat": "2021-07-29",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "210",
+          "temp": "24,1",
+          "profillink": "\"Halensee - Halensee(Link zum Badegewässerprofil Halensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.468919.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad39.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.21297, 52.60045]
+      },
+      "properties": {
+        "title": "Freibad Heiligensee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/46",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/46\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/46",
+        "data": {
+          "id": "46",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Freibad Heiligensee(Link zur Badestelle Freibad Heiligensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344335.php",
+          "badname": "Heiligensee, Freibad",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-28",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "130",
+          "temp": "25,2",
+          "profillink": "\"Heiligensee - Freibad Heiligensee(Link zum Badegewässerprofil Freibad Heiligensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339147.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad10.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.27467, 52.54371]
+      },
+      "properties": {
+        "title": "Freibad Jungfernheide",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/49",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Charlottenburg-Wilmersdorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/49\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/49",
+        "data": {
+          "id": "49",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Freibad Jungfernheide(Link zur Badestelle Freibad Jungfernheide)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344352.php",
+          "badname": "Jungfernheide, Freibad",
+          "bezirk": "Charlottenburg-Wilmersdorf",
+          "dat": "2021-07-28",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": ">220",
+          "temp": "24,7",
+          "profillink": "\"Jungfernheideteich - Freibad Jungfernheide(Link zum Badegewässerprofil Freibad Jungfernheide)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339149.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad11.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.18595, 52.48418]
+      },
+      "properties": {
+        "title": "Kleine Badewiese / Unterhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/52",
+        "description": "<img src=\"/imgscaler/yOuVLK2KYlCxkzMJzhtt-Fue_QytByvOgcH-IOX9dLw/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW5fcHJvZy5qcGc.jpg\" alt=\"\" />Spandau<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/52\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/52",
+        "data": {
+          "id": "52",
+          "prognoselink": "",
+          "farbe": "gruen_prog.jpg",
+          "badestellelink": "\"Kleine Badewiese(Link zur Badestelle Kleine Badewiese)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344351.php",
+          "badname": "Kleine Badewiese",
+          "bezirk": "Spandau",
+          "dat": "2021-07-29",
+          "eco": "61",
+          "ente": "<15",
+          "sicht": "<100",
+          "temp": "24,1",
+          "profillink": "\"Unterhavel - Kleine Badewiese(Link zum Badegewässerprofil Unterhavel Kleine Badewiese)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339129.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad33.pdf",
+          "dat_predict": "2021-08-04T05:51:16.989Z"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.67762, 52.42822]
+      },
+      "properties": {
+        "title": "Kleiner Müggelsee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/55",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/55\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/55",
+        "data": {
+          "id": "55",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Kleiner Müggelsee(Link zur Badestelle Kleiner Müggelsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344328.php",
+          "badname": "Kleiner Müggelsee",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "140",
+          "temp": "25",
+          "profillink": "\"Großer Müggelsee - Kleiner Müggelsee(Link zum Badegewässerprofil Kleiner Müggelsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.386749.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad12.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.23242, 52.45219]
+      },
+      "properties": {
+        "title": "Krumme Lanke",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/58",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Steglitz-Zehlendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/58\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/58",
+        "data": {
+          "id": "58",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Krumme Lanke(Link zur Badestelle Krumme Lanke)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344355.php",
+          "badname": "Krumme Lanke",
+          "bezirk": "Steglitz-Zehlendorf",
+          "dat": "2021-07-22",
+          "eco": "<15",
+          "ente": "15",
+          "sicht": ">100",
+          "temp": "23,4",
+          "profillink": "\"Grunewaldseen - Krumme Lanke(Link zum Badegewässerprofil Krumme Lanke)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339151.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad13.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.19672, 52.46933]
+      },
+      "properties": {
+        "title": "Lieper Bucht / Unterhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/61",
+        "description": "<img src=\"/imgscaler/yOuVLK2KYlCxkzMJzhtt-Fue_QytByvOgcH-IOX9dLw/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW5fcHJvZy5qcGc.jpg\" alt=\"\" />Steglitz-Zehlendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/61\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/61",
+        "data": {
+          "id": "61",
+          "prognoselink": "",
+          "farbe": "gruen_prog.jpg",
+          "badestellelink": "\"Lieper Bucht(Link zur Badestelle Lieper Bucht)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344358.php",
+          "badname": "Lieper Bucht",
+          "bezirk": "Steglitz-Zehlendorf",
+          "dat": "2021-07-29",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "110",
+          "temp": "24",
+          "profillink": "\"Unterhavel - Lieper Bucht(Link zum Badegewässerprofil Unterhavel Lieper Bucht)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339132.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad34.pdf",
+          "dat_predict": "2021-08-04T05:50:32.505Z"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.33605, 52.61795]
+      },
+      "properties": {
+        "title": "Freibad Lübars (Ziegeleisee)",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/64",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/64\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/64",
+        "data": {
+          "id": "64",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Freibad Lübars Ziegeleisee(Link zur Badestelle Ziegeleisee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344336.php",
+          "badname": "Lübars, Freibad (Ziegeleisee)",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-28",
+          "eco": "<15",
+          "ente": "15",
+          "sicht": "320",
+          "temp": "24,9",
+          "profillink": "\"Ziegeleisee - Freibad Lübars Ziegeleisee (Link zum Badegewässerprofil Ziegeleisee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339148.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad14.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.6759, 52.44472]
+      },
+      "properties": {
+        "title": "Strandbad Müggelsee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/67",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/67\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/67",
+        "data": {
+          "id": "67",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Strandbad Müggelsee(Link zur Badestelle Strandbad Müggelsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344329.php",
+          "badname": "Müggelsee, Strandbad",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "120",
+          "temp": "24,9",
+          "profillink": "\"Großer Müggelsee - Strandbad Müggelsee(Link zum Badegewässerprofil Strandbad Müggelsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339112.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad15.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.48426, 52.5496]
+      },
+      "properties": {
+        "title": "Strandbad Orankesee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/70",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Lichtenberg<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/70\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/70",
+        "data": {
+          "id": "70",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Strandbad Orankesee(Link zur Badestelle Orankesee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.347246.php",
+          "badname": "Orankesee, Strandbad",
+          "bezirk": "Lichtenberg",
+          "dat": "2021-07-28",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "220",
+          "temp": "24,1",
+          "profillink": "\"Orankesee - Strandbad Orankesee(Link zum Badegewässerprofil Orankesee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339144.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad18.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.32923, 52.5436]
+      },
+      "properties": {
+        "title": "Freibad Plötzensee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/73",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Mitte<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/73\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/73",
+        "data": {
+          "id": "73",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Freibad Plötzensee(Link zur Badestelle Freibad Plötzensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344353.php",
+          "badname": "Plötzensee, Freibad",
+          "bezirk": "Mitte",
+          "dat": "2021-07-28",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "190",
+          "temp": "24,9",
+          "profillink": "\"Plötzensee - Freibad Plötzensee(Link zum Badegewässerprofil Freibad Plötzensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339145.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad19.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.18963, 52.45861]
+      },
+      "properties": {
+        "title": "Radfahrerwiese / Unterhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/76",
+        "description": "<img src=\"/imgscaler/yOuVLK2KYlCxkzMJzhtt-Fue_QytByvOgcH-IOX9dLw/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW5fcHJvZy5qcGc.jpg\" alt=\"\" />Steglitz-Zehlendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/76\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/76",
+        "data": {
+          "id": "76",
+          "prognoselink": "",
+          "farbe": "gruen_prog.jpg",
+          "badestellelink": "\"Radfahrerwiese(Link zur Badestelle Radfahrerwiese)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344357.php",
+          "badname": "Radfahrerwiese",
+          "bezirk": "Steglitz-Zehlendorf",
+          "dat": "2021-07-20",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "130",
+          "temp": "23,6",
+          "profillink": "\"Unterhavel - Radfahrerwiese(Link zum Badegewässerprofil Unterhavel Radfahrerwiese)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339135.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad35.pdf",
+          "dat_predict": "2021-08-04T05:50:48.176Z"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.22087, 52.59457]
+      },
+      "properties": {
+        "title": "Sandhauser Straße / Oberhavel",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/79",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/79\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/79",
+        "data": {
+          "id": "79",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Sandhauser Straße(Link zur Badestelle Sandhauser Straße)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344341.php",
+          "badname": "Sandhauser Straße",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-19",
+          "eco": "<15",
+          "ente": "15",
+          "sicht": "140",
+          "temp": "23,9",
+          "profillink": "\"Oberhavel - Sandhauser Straße(Link zum Badegewässerprofil Sandhauser Staße)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339122.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad17.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.21713, 52.44336]
+      },
+      "properties": {
+        "title": "Schlachtensee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/82",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Steglitz-Zehlendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/82\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/82",
+        "data": {
+          "id": "82",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Schlachtensee(Link zur Badestelle Schlachtensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344356.php",
+          "badname": "Schlachtensee",
+          "bezirk": "Steglitz-Zehlendorf",
+          "dat": "2021-07-22",
+          "eco": "<15",
+          "ente": "30",
+          "sicht": ">100",
+          "temp": "23,4",
+          "profillink": "\"Grunewaldseen - Schlachtensee(Link zum Badegewässerprofil Schlachtensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339152.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad20.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.65329, 52.37324]
+      },
+      "properties": {
+        "title": "Schmöckwitz",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/85",
+        "description": "<img src=\"/imgscaler/2089et2j_9cnXR3SmSqpRRDLbR3oNSzQcBpNhYQ9qNE/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW5fYS5qcGc.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/85\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/85",
+        "data": {
+          "id": "85",
+          "prognoselink": "",
+          "farbe": "gruen_a.jpg",
+          "badestellelink": "\"Schmöckwitz(Link zur Badestelle Schmöckwitz)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344331.php",
+          "badname": "Schmöckwitz",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "50",
+          "temp": "25,3",
+          "profillink": "\"Dahme - Schmöckwitz(Link zum Badegewässerprofil Dahme Schmöckwitz)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339114.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad21.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.68549, 52.3872]
+      },
+      "properties": {
+        "title": "Seddinsee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/88",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/88\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/88",
+        "data": {
+          "id": "88",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Seddinsee(Link zur Badestelle Seddinsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344332.php",
+          "badname": "Seddinsee",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "230",
+          "temp": "25,3",
+          "profillink": "\"Dahme - Seddinsee(Link zum Badegewässerprofil Dahme Seddinsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339116.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad22.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.24528, 52.57784]
+      },
+      "properties": {
+        "title": "Freibad Tegeler See",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/91",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/91\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/91",
+        "data": {
+          "id": "91",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Freibad Tegeler See(Link zur Badestelle Freibad Tegler See)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344343.php",
+          "badname": "Tegeler See, Freibad",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-19",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "210",
+          "temp": "24,2",
+          "profillink": "\"Tegler See - Freibad Tegeler See(Link zum Badegewässerprofil Freibad Tegeler See)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339124.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad23.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.25602, 52.56819]
+      },
+      "properties": {
+        "title": "gegenüber Reiswerder / Tegeler See",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/94",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/94\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/94",
+        "data": {
+          "id": "94",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Gegenüber Reiswerder(Link zur Badestelle Gegenüber Reiswerder)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344345.php",
+          "badname": "Tegeler See, gegenüber Reiswerder",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-19",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": ">240",
+          "temp": "23,9",
+          "profillink": "\"Tegler See - gegenüber Reiswerder(Link zum Badegewässerprofil Tegeler See gegenüber Reiserwerder)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339126.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad24.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.24425, 52.57572]
+      },
+      "properties": {
+        "title": "gegenüber Scharfenberg / Tegeler See",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/97",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/97\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/97",
+        "data": {
+          "id": "97",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Gegenüber Scharfenberg(Link zur Badestelle Scharfenberg)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344348.php",
+          "badname": "Tegeler See, gegenüber Scharfenberg",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-19",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "190",
+          "temp": "24,3",
+          "profillink": "\"Tegler See - gegenüber Scharfenberg(Link zum Badegewässerprofil Tegeler See gegenüber Scharfenberg)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339125.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad25.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.25519, 52.58564]
+      },
+      "properties": {
+        "title": "Reiherwerder / Tegeler See",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/100",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/100\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/100",
+        "data": {
+          "id": "100",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Reiherwerder(Link zur Badestelle Reiherwerder)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344344.php",
+          "badname": "Tegeler See, Reiherwerder",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-19",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "250",
+          "temp": "23,8",
+          "profillink": "\"Tegler See - Reiherwerder(Link zum Badegewässerprofil Tegeler See  Reiherwerder)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339128.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad26.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.24684, 52.56216]
+      },
+      "properties": {
+        "title": "Saatwinkel / Tegeler See",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/103",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Reinickendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/103\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/103",
+        "data": {
+          "id": "103",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Saatwinkel(Link zur Badestelle Saatwinkel)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344349.php",
+          "badname": "Tegeler See, Saatwinkel",
+          "bezirk": "Reinickendorf",
+          "dat": "2021-07-19",
+          "eco": "<15",
+          "ente": "<15",
+          "sicht": "200",
+          "temp": "24,3",
+          "profillink": "\"Tegler See - Saatwinkel(Link zum Badegewässerprofil Tegeler See Saatwinkel)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339127.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad27.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.2345, 52.49061]
+      },
+      "properties": {
+        "title": "Teufelssee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/106",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Charlottenburg-Wilmersdorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/106\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/106",
+        "data": {
+          "id": "106",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Teufelssee(Link zur Badestelle Teufelsseee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344363.php",
+          "badname": "Teufelssee",
+          "bezirk": "Charlottenburg-Wilmersdorf",
+          "dat": "2021-07-22",
+          "eco": "<15",
+          "ente": "15",
+          "sicht": ">100",
+          "temp": "22,5",
+          "profillink": "\"Teufelssee - Teufelssee(Link zum Badegewässerprofil Teufelssee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339150.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad28.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1768, 52.4389]
+      },
+      "properties": {
+        "title": "Strandbad Wannsee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/109",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Steglitz-Zehlendorf<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/109\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/109",
+        "data": {
+          "id": "109",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Strandbad Wannsee(Link zur Badestelle Strandbad Wannsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344361.php",
+          "badname": "Wannsee, Strandbad",
+          "bezirk": "Steglitz-Zehlendorf",
+          "dat": "2021-07-20",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "180",
+          "temp": "24",
+          "profillink": "\"Unterhavel - Strandbad Wannsee(Link zum Badegewässerprofil Unterhavel Strandbad Wannsee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339136.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad36.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.46559, 52.55396]
+      },
+      "properties": {
+        "title": "Seebadeanstalt Weißensee",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/112",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Pankow<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/112\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/112",
+        "data": {
+          "id": "112",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Seebadeanstalt Weißensee(Link zur Badestelle Weißensee)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344318.php",
+          "badname": "Weißensee, Seebadeanstalt",
+          "bezirk": "Pankow",
+          "dat": "2021-07-28",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "130",
+          "temp": "24,6",
+          "profillink": "\"Weißer See - Seebadeanstalt Weißensee(Link zum Badegewässerprofil Weisser See)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339137.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad37.pdf",
+          "dat_predict": ""
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.60032, 52.41514]
+      },
+      "properties": {
+        "title": "Freibad Wendenschloss",
+        "href": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/115",
+        "description": "<img src=\"/imgscaler/yOPMBrjouu9SA7vfqS_hALGM8Pp-etDlTxHIVJ_zSmo/quadrat40/L3N5czExLXByb2QvbGFnZXNvL2dlc3VuZGhlaXQvZ2VzdW5kaGVpdHNzY2h1dHovYmFkZWdld2Flc3Nlci9saXN0ZS1kZXItYmFkZXN0ZWxsZW4vZ3J1ZW4uanBn.jpg\" alt=\"\" />Treptow-Köpenick<br /> <a href=\"/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/115\">Mehr...</a>",
+        "id": "/lageso/gesundheit/gesundheitsschutz/badegewaesser/liste-der-badestellen/index.php/detail/115",
+        "data": {
+          "id": "115",
+          "prognoselink": "",
+          "farbe": "gruen.jpg",
+          "badestellelink": "\"Freibad Wendenschloss(Link zur Badestelle Wendenschloß)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badestellen/artikel.344333.php",
+          "badname": "Wendenschloss, Freibad",
+          "bezirk": "Treptow-Köpenick",
+          "dat": "2021-07-27",
+          "eco": "15",
+          "ente": "<15",
+          "sicht": "160",
+          "temp": "25,3",
+          "profillink": "\"Dahme - Freibad Wendenschloss(Link zum Badegewässerprofil Freibad Wendenschloss)\":/lageso/gesundheit/gesundheitsschutz/badegewaesser/badegewaesserprofile/artikel.339120.php",
+          "pdflink": "\"Alle Probeentnamen der aktuellen Saison für diese Badestelle(Link zur PDF-Datei mit allen Probeentnamen der aktuellen Saison)\":https://data.lageso.de/lageso/baden/bad38.pdf",
+          "dat_predict": ""
+        }
+      }
+    }
+  ]
+}

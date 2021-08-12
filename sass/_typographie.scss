@@ -1,0 +1,85 @@
+// h1
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 400;
+  // elegante Serifenübergangsschrift
+  src: local(''), url('/fonts/philosopher_regular.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('/fonts/philosopher_regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+// h2 - h6, button ...
+@font-face {
+  font-family: 'Caviar';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/fonts/caviar-dreams.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/fonts/caviar-dreams.woff')
+      format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+// Standard-Text:
+// Calibri -> evtl. Font herunterladen als woff und woff2 !!!!
+
+// color-fun-Schrift für fun-stuff-site
+@font-face {
+  font-family: 'Eraser';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/fonts/eraser.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/fonts/eraser.woff')
+      format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+@font-face {
+  font-family: 'Gilbert';
+  src: url('/fonts/Gilbert-Color.otf');
+}
+
+// zum Testen
+@font-face {
+  font-family: 'H1-Test-Schrift';
+  font-style: normal;
+  font-weight: 400;
+  // elegante Serifenübergangsschrift
+  src: local(''), url('/fonts/philosopher_regular.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('/fonts/philosopher_regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // Schulkreide-Druckschrift
+  // src: local(''), url('/fonts/eraser.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/fonts/eraser.woff')
+  //     format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // passt sehr gut zu Rubik
+  // src: local(''), url('/fonts/lato-v17-latin-regular.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */
+  //     url('/fonts/lato-v17-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // Gothik
+  // src: local(''), url('/fonts/gondola_SD.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */
+  //     url('/fonts/gondola_SD.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // sehr scharfe/ gestochene Schrift, leichter Bauhaus-Stil
+  // src: local(''), url('/fonts/caviar_dreams_bold.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */
+  //     url('/fonts/caviar_dreams_bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // Fettschrift - ähnlich Rubik Mono -, aber ohne Serifen
+  // src: local(''), url('/fonts/candal.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/fonts/candal.woff')
+  //     format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // Druckbuchstaben-Handschrift
+  // src: local(''), url('/fonts/blokletters-balpen.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */
+  //     url('/fonts/blokletters-balpen.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // Druckbuchstaben-Handschrift
+  // src: local(''), url('/fonts/ArchitectsDaughter.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */
+  //     url('/fonts/ArchitectsDaughter.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // seriöse Comic-Schrift
+  // src: local(''), url('/fonts/adam.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/fonts/adam.woff')
+  //     format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  // alte Schreibmaschine
+  // src: local(''), url('/fonts/1942.woff2') format('woff2'),
+  //   /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/fonts/1942.woff')
+  //     format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

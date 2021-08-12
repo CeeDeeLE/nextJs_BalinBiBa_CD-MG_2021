@@ -1,0 +1,36 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "serve": "next build && next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@jnsdls/react-text-shuffle": "^0.1.1-alpha.15",
+    "leaflet": "^1.7.1",
+    "next": "^11.1.0",
+    "next-seo": "^4.26.0",
+    "node-geonames-client": "0.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-leaflet": "^3.2.1",
+    "react-leaflet-markercluster": "^3.0.0-rc1",
+    "react-native-maps": "^0.28.0",
+    "react-shuffle-text": "^1.0.6",
+    "react-slideshow-image": "^3.5.0",
+    "reactstrap": "^8.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "sass": "^1.37.5"
+  }
+}
