@@ -1,5 +1,4 @@
 import ReactMapGL, { Marker, Popup } from 'react-map-gl';
-
 import { getCenter } from 'geolib';
 import { useState } from 'react';
 

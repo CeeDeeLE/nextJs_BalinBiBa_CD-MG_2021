@@ -1,6 +1,6 @@
 // Image-Shuffler -> mit Helfer
 import 'react-slideshow-image/dist/styles.css';
-import BerlinImages, { categories } from '@/library/berlinVerrueckt';
+import BerlinImages from '@/library/berlinVerrueckt';
 import { shuffleArray } from '../library/helpers';
 
 // https://github.com/lodash-thailand/react-pixnode-shuffle-images/blob/master/example/index.js
