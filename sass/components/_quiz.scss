@@ -1,0 +1,88 @@
+.startQuiz {
+  padding: 15px;
+
+  .inner-width {
+    width: 90%;
+    max-width: 90rem;
+    padding: 0;
+    margin: 0 auto;
+  }
+
+  .site-main,
+  .header-main,
+  .intro,
+  .bad-item,
+  .shuffler,
+  .impressum,
+  .dasch {
+    padding: 0 1rem 1rem 1rem;
+  }
+  .map-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .mapboxgl-popup-content {
+    position: relative;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    padding: 5px !important;
+    pointer-events: auto;
+  }
+  .hidden {
+    display: hidden;
+  }
+  .mapboxgl-popup-close-button {
+    position: absolute !important;
+    right: -3px !important;
+    top: -7px !important;
+    border-radius: 50% !important;
+    cursor: pointer;
+    background-color: white !important;
+    width: 22px !important;
+    height: 22px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    padding-bottom: 1px !important;
+    font-size: 1rem !important;
+    transition-property: transform;
+    transition-duration: 0.2s;
+  }
+  .mapboxgl-popup-close-button:hover {
+    background-color: white !important;
+    transform: scale(1.2);
+  }
+
+  .correct {
+    color: rgb(59, 215, 59) !important;
+  }
+
+  .wrong {
+    text-decoration: line-through;
+    color: rgb(240, 92, 92) !important;
+  }
+
+  .pinButton {
+    padding: 0 !important;
+    border-radius: 0.5em !important;
+    font-size: 1rem !important;
+    background: transparent !important;
+    color: #0f0e17 !important;
+    border: none !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin: 0 !important;
+    font-weight: normal !important;
+  }
+  .anwsers > .questionButton button {
+    display: block;
+    padding: 0;
+    background: white;
+    font-size: 0.9;
+    padding: 4px 6px;
+    margin-top: 6px;
+  }
+}

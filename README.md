@@ -1,7 +1,15 @@
-Test-Hochladung war erfolgreich, aber ohne Inhalt von Marco:
-next-js-bbb-cd-git-main-connidee.vercel.app
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Projekt von Constanze Deten und Marco Grahl,
+August 2021
+das Projekt wurde in 2 Teilen erstellt und zusammengefügt
+verfügbare vercel.app-Ansichten:
+https://con-ma-project.vercel.app/
 
--------------- offizieller Teil von nextjs,org -----------------
+Test-Hochladungen:
+https://nextjs-open-trip.vercel.app/
+https://next-js-bbb-cd.vercel.app/
+
+// +++++++++++++++++ ab hier offizieller Teil von nextjs,org +++++++++++++++++
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

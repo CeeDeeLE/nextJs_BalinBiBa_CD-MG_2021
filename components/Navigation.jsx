@@ -11,7 +11,7 @@ export default function Navigation() {
               <i className="fa fa-anchor" style={{ fontSize: 16 }}></i>
             </a>
           </Link>
-          <Link href="/">
+          <Link href="/Quiz">
             <a>Besuchen</a>
           </Link>
           <Link href="/baeder">
