@@ -36,10 +36,11 @@ function Map(props) {
   return (
     <ReactMapGL
       mapStyle="mapbox://styles/manograhl/cks65fk9x26wz18oyg6ujl8pf"
-      mapboxApiAccessToken={process.env.mapbox_key}
-      //   mapboxApiAccessToken={process.env.MAPBOX_KEY}
+      mapboxApiAccessToken="pk.eyJ1IjoibWFub2dyYWhsIiwiYSI6ImNrczY0bm9pZDB6bjAycHBoaDJpeXB1NzkifQ.f1xceJ0LaDAZxqvi1jD_hQQ"
+      // mapboxApiAccessToken={process.env.mapbox_key}
+      // mapboxApiAccessToken={process.env.MAPBOX_KEY}
       {...viewport}
-      //    if the user wants to scroll and zoom it will update the viewport values,
+      // if the user wants to scroll and zoom it will update the viewport values,
       onViewportChange={(nextViewport) => setviewport(nextViewport)}
     >
       {/* Adding the marker and popup form react wrapper   */}

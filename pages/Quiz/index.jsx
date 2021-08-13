@@ -85,7 +85,7 @@ export async function getStaticProps() {
 
   // `${API_URL}/places/radius?radius=${searchRadius}&lon=${lon}&lat=${lat}&limit=${limit}&src_geom=wikidata&src_attr=wikidata&kinds=${kind}&rate=${rating}&format=json&apikey=${API_KEY}`
   const res = await fetch(
-    `https://${REACT_APP_API_URL}/places/radius?radius=${searchRadius}&lon=${lon}&lat=${lat}&limit=${limit}&src_geom=wikidata&src_attr=wikidata&kinds=${kind}&rate=${rating}&format=json&apikey=${REACT_APP_API_KEY}`
+    `https://api.opentripmap.com/0.1/en/places/radius?radius=${searchRadius}&lon=${lon}&lat=${lat}&limit=${limit}&src_geom=wikidata&src_attr=wikidata&kinds=${kind}&rate=${rating}&format=json&apikey=5ae2e3f221c38a28845f05b65c2cac201a518504652aedf274289a28`
   );
   const intPlaces = await res.json();
 
@@ -103,7 +103,7 @@ export async function getStaticProps() {
 
   const detailsPromises = placesIds.map(({ xid }) =>
     fetch(
-      `${REACT_APP_API_URL}/places/xid/${xid}?apikey=${REACT_APP_API_KEY} `
+      `https://api.opentripmap.com/0.1/en/places/xid/${xid}?apikey=5ae2e3f221c38a28845f05b65c2cac201a518504652aedf274289a28`
     ).then((res) => res.json())
   );
 
