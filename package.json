@@ -22,6 +22,7 @@
     "react-leaflet": "^3.2.1",
     "react-leaflet-markercluster": "^3.0.0-rc1",
     "react-native-maps": "^0.28.0",
+    "react-script": "^2.0.5",
     "react-shuffle-text": "^1.0.6",
     "react-slideshow-image": "^3.5.0",
     "reactstrap": "^8.9.0"
